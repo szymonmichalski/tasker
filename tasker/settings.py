@@ -52,7 +52,7 @@ SECRET_KEY = "django-insecure-ik9imp6w5-5of680io)eq$69%n1cw-$o6in+bu8g9_y1)x@$6s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS: List = ["taskerr.herokuapp.com"]
+ALLOWED_HOSTS: List = ["*"]
 
 
 # Application definition
